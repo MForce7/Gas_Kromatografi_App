@@ -1,0 +1,129 @@
+/* ------------------------------------------------------------- */
+/* Main Window */
+/* ------------------------------------------------------------- */
+
+MainWindow {
+    background-color: white;
+}
+
+QGroupBox {
+    /* font-size: 18px; */
+    /* margin-top: 10; */
+}
+
+QPushButton {
+    background-color:   #bfced9;
+}
+
+/* ------------------------------------------------------------- */
+/* Side Bar */
+/* ------------------------------------------------------------- */
+#sidebar {
+    background-color: #091926;
+    /* border: 1px solid #5E81AC; */
+    border-radius: 12px;
+}
+
+/* Semua tombol di dalam VBox */
+#sidebar QPushButton {
+    background-color: transparent;
+    /* background-color: #254966; */
+    /* color: white; */
+    border: 0;
+    /* border-radius: 6px; */
+    padding: 10px;
+    margin-top: 10px;
+}
+
+#sidebar QPushButton:hover {
+    /* background-color: #81A1C1; */
+    /* cursor: pointer; */
+}
+
+
+/* ------------------------------------------------------------- */
+/* Combobox */
+/* ------------------------------------------------------------- */
+
+/* Base QComboBox */
+QComboBox {
+    /* background-color: #2E3440; */
+    /* background-color: #ffffff; */
+    /* color: #ECEFF4; */
+    /* color: black; */
+    /* placeholder-text-color: black; */
+    /* border: 1px solid #5E81AC; */
+    border: 1px solid #000000;
+    /* border: 1px solid #000000; */
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+/* Hover */
+QComboBox:hover {
+    /* border: 1px solid #81A1C1; */
+}
+
+/* Focus */
+QComboBox:focus {
+    /* border: 1px solid #88C0D0; */
+}
+
+/* Drop-down button area */
+QComboBox::drop-down {
+    border: none;
+    /* width: 25px; */
+}
+
+/* Arrow */
+QComboBox::down-arrow {
+    image: url(:img/Down.png);
+    width: 12px;
+    height: 12px;
+}
+
+/* Dropdown list */
+QComboBox QAbstractItemView {
+    /* background-color: #3B4252;
+    color: #ECEFF4;
+    selection-background-color: #5E81AC;
+    selection-color: white;
+    border: 1px solid #5E81AC; */
+}
+
+/* ------------------------------------------------------------- */
+/* Connection Group */
+/* ------------------------------------------------------------- */
+#connection_grup {
+    /* background-color: #2E3440; */
+    /* border: 1px solid #5E81AC;
+    border-radius: 8px; */
+    /* margin-top: 28px;       */
+    /* padding: 30px; */
+}
+
+/* TITLE STYLE */
+#connection_grup::title {
+    /* color: #000000;
+    font-weight: bold;
+    font-size: 36px; */
+
+    /* subcontrol-origin: margin; */
+    /* subcontrol-position: top left; */
+
+    /* padding-right: 6px ;
+    margin-top: -20px;  */
+    /* background-color: #3B4252; */
+    /* border-radius: 8px; */
+}
+
+#connection_grup QLabel {
+    /* color: black; */
+    /* font-size: 14px; */
+    padding-left: 20px;
+}
+
+
+
+
+

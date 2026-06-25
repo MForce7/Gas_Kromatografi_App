@@ -1,0 +1,5 @@
+D:\Kuliah\TA\App\GUI\Kromatografi-Gas-App_v.2.2\GCLauncher\bin\Release\net10.0\publish\GCLauncher.exe
+D:\Kuliah\TA\App\GUI\Kromatografi-Gas-App_v.2.2\GCLauncher\bin\Release\net10.0\publish\GCLauncher.dll
+D:\Kuliah\TA\App\GUI\Kromatografi-Gas-App_v.2.2\GCLauncher\bin\Release\net10.0\publish\GCLauncher.deps.json
+D:\Kuliah\TA\App\GUI\Kromatografi-Gas-App_v.2.2\GCLauncher\bin\Release\net10.0\publish\GCLauncher.runtimeconfig.json
+D:\Kuliah\TA\App\GUI\Kromatografi-Gas-App_v.2.2\GCLauncher\bin\Release\net10.0\publish\GCLauncher.pdb

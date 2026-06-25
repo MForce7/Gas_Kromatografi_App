@@ -1,0 +1,11 @@
+<RCC version="1.0">
+    <qresource>
+        <file>img/Graph.png</file>
+        <file>img/Home.png</file>
+        <file>img/Down.png</file>
+        <file>img/Calibrate.png</file>
+        <file>img/Icon.ico</file>
+        <file>img/Icon.png</file>
+        <file>Style/global_style.qss</file>
+    </qresource>
+</RCC>
