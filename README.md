@@ -21,8 +21,6 @@
 
 ## ⚙️ Installation
 
-## ⚙️ Installation
-
 ### Windows
 
 A pre-built Windows version is available on the **[Latest Release](../../releases/latest)** page. Simply download the latest release and run the application—no Python installation or additional dependencies are required.
