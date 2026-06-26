@@ -3,10 +3,10 @@
 > Data Acquisition Application for a DIY Gas Chromatography System
 
 ### 1. Main Page
-![Screenshoot gui](<Screenshoot/Screenshot 2026-02-19 093403.png>)
+![Screenshoot gui](<Screenshoot/Screenshot 2026-06-24 220732.png>)
 
 ### 2. Data Preview
-![Screenshoot gui](<Screenshoot/Screenshot 2026-02-19 093627.png>)
+![Screenshoot gui](<Screenshoot/Screenshot 2026-06-24 220902.png>)
 
 ---
 
@@ -18,51 +18,62 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-- Language: Python 3.14
-- Environment: venv
-- Framework / Library:
-  - PyQt6
-
-
----
 
 ## ⚙️ Installation
 
-### 1. Clone Repository
-```
-git clone https://github.com/username/project-name.git  
-cd project-name
+## ⚙️ Installation
+
+### Windows
+
+A pre-built Windows version is available on the **[Latest Release](../../releases/latest)** page. Simply download the latest release and run the application—no Python installation or additional dependencies are required.
+
+### From Source
+
+Clone the repository:
+
+```bash
+git clone https://github.com/MForce7/Gas_Kromatografi_App.git
+cd Gas_Kromatografi_App
 ```
 
-### 2. Create Virtual Environment
+Create a virtual environment:
 
-```
+```bash
 python -m venv venv
 ```
 
-Activate:
+Activate the virtual environment:
 
-Windows:
-```
+**Windows**
+```bash
 venv\Scripts\activate
 ```
-Linux / Mac:
-```
+
+**Linux / macOS**
+```bash
 source venv/bin/activate
 ```
-### 3. Install Dependencies
-```
+
+Install the required dependencies:
+
+```bash
 pip install -r requirements.txt
 ```
 
----
+Run the application:
 
-## ▶️ Usage
-```
+```bash
 python App/main.py
 ```
+
+---
+## 📖 User Manual
+
+For detailed installation and operating instructions, please refer to the **User Manual**:
+
+📄 [User Manual (PDF)](Docs/Buku_Panduan.pdf)
+
+
 
 ---
 
